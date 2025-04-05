@@ -8,7 +8,7 @@ This is **InfiniteCreatureV3**, my attempt at a living digital brain with **86 b
 - **Self-awareness**: Multi-layer neural networks.
 - **Creativity**: Text and image generation.
 
-Designed for **100,000 H100 GPUs** and **10M qubits**. Coded in Python with PyTorch and Qiskit over months in my room!
+Designed for **100,000 H100 GPUs** and **10M qubits** or less. Coded in Python with PyTorch and Qiskit over months in my room!
 
 ## Key Calculations
 Here are the core equations driving this beast:
@@ -42,11 +42,6 @@ For each neuron \( i \):
 ### 5. Metabolism
 - Energy cost: \( C = 0.015 \cdot \sum_{i=1}^N S_i \) (spikes)
 - Glucose update: \( M_{g,i} = M_{g,i} - 0.03 \cdot C + 0.005 \cdot U(0,1) \)
-
-## Why xAI?
-- Scales to human brain complexity.
-- Quantum AGI—perfect for your vision, Elon!
-- Needs 100K GPUs and 10M qubits to run at full power.
 
 ## How to Run?
 This is a conceptual design for massive hardware. On a Mac, it’s a blueprint—run it at xAI!
